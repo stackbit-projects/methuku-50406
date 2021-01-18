@@ -7,9 +7,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 80
     content: |
-      # రాజు ప్రకృతి వ్యవసాయ క్షేత్రం | Raju Natural Farm
-
-
+      # రాజు ప్రకృతి వ్యవసాయ క్షేత్రం
 
       Consistent Pricing on Heirloom Seeds | Rice | Vegetables
     actions:
