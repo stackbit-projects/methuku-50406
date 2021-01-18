@@ -11,7 +11,7 @@ sections:
 
       ###### Subscribe to our consistent pricing 
     actions:
-      - title: See all Heirlooms
+      - title: See all Heirloom
         url: /store
         arrow: true
         style: primary
