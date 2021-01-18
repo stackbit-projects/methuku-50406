@@ -8,7 +8,7 @@ description: >-
   tincidunt.
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
-featured: true
+featured: false
 order: 1
 category: src/pages/category/bigplants.md
 section: Store
