@@ -7,9 +7,9 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 80
     content: |
-      # రాజు ప్రకృతి వ్యవసాయ క్షేత్రం
+      # రాజు ప్రకృతి వ్యవసాయ క్షేత్రం 
 
-      ###### Consistent Pricing on Heirlooms -  Seeds | Rice | Vegetables
+      ###### Subscribe to our consistent pricing 
     actions:
       - title: See all items
         url: /store
