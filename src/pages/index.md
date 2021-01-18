@@ -9,8 +9,6 @@ sections:
     content: |
       # రాజు ప్రకృతి వ్యవసాయ క్షేత్రం
 
-      #
-
       Consistent Pricing on Heirlooms -  Seeds | Rice | Vegetables
     actions:
       - title: See all items
